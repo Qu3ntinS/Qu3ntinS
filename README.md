@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 <h3 align="center">A 18 year old aspiring IT specialist for application development at Netgrade GmbH</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qu3ntins&label=Profile%20views&color=0e75b6&style=flat" alt="qu3ntins" /> </p>
+
 - 🔭 I’m currently working on [HobbyConnect](https://github.com/HobbyConnect)
 
 - 🌱 I’m currently learning **React Native, Spring, React**
