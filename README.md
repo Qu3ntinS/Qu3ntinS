@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qu3ntins&show_icons=true&locale=en&layout=compact" alt="qu3ntins" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qu3ntins&show_icons=true&locale=en" alt="qu3ntins" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qu3ntins&" alt="qu3ntins" /></p>
