@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">A 20 year old IT specialist for application development at Netgrade GmbH</h3>
+<h3 align="center">A 20 year old Fullstack Developer at Netgrade GmbH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qu3ntins&label=Profile%20views&color=0e75b6&style=flat" alt="qu3ntins" /> </p>
 
