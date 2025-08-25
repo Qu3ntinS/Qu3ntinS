@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [quentins.dev](quentins.dev)
 
-- 💬 Ask me about **PHP, Symfony, Discord Bot Development**
+- 💬 Ask me about **PHP, Symfony, Discord Bot Development, React, React Native**
 
 - ⚡ Fun fact **I like Turtles**
 
