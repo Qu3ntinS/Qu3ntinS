@@ -24,7 +24,11 @@ jobs:
             AGE=$((AGE-1))
           fi
 
-          # Zahl in "(currently **XX years old**)" austauschen
+          echo "📅 Today is $TODAY"
+          echo "🎂 Birthdate is $BIRTHDATE"
+          echo "🧮 Calculated Age: $AGE"
+
+          # Zahl im README ersetzen
           sed -i -E "s/\(currently \*\*[0-9]+ years old\*\*\)/(currently **$AGE years old**)/" README.md
 
       - name: Commit & Push changes
