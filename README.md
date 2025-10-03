@@ -52,7 +52,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu3ntinS&layout=compact&theme=dark#gh-dark-mode-only" height="180" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=Qu3ntinS&theme=dark#gh-dark-mode-only" height="180" alt="GitHub streak stats" />
+  <!--<img src="https://streak-stats.demolab.com?user=Qu3ntinS&theme=dark#gh-dark-mode-only" height="180" alt="GitHub streak stats" />-->
 </p>
 
 ---
