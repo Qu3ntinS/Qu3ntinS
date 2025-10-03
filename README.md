@@ -1,15 +1,4 @@
-<!-- Typing Intro -->
-<p align="left">
-  <!-- Light Mode -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bitcount&size=30&color=000000&background=FFFFFF00&lines=Hi%2C+I'm+Quentin+👋🏼#gh-light-mode-only" alt="Typing SVG Light" />
-  </a>
-  
-  <!-- Dark Mode -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bitcount&size=30&color=FFFFFF&background=000000&lines=Hi%2C+I'm+Quentin+👋🏼#gh-dark-mode-only" alt="Typing SVG Dark" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&size=30&color=FFFFFF&background=000000&lines=Hi%2C+I'm+Quentin+👋🏼)](https://git.io/typing-svg)
 
 💻 **Fullstack Developer** from Würzburg, Germany  
 🎂 Born on **July 4th, 2005** (currently **{{AGE}} years old**)  
@@ -62,10 +51,6 @@
 ### 📊 GitHub Stats <img src="https://komarev.com/ghpvc/?username=qu3ntins&label=Profile%20views&color=0e75b6&style=flat" alt="qu3ntins" height="15"/>
 
 <p align="left">
-  <!-- Light Mode -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu3ntinS&layout=compact&theme=default#gh-light-mode-only" height="180px" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=Qu3ntinS&theme=default#gh-light-mode-only" height="180px" alt="GitHub streak stats" />
-  
   <!-- Dark Mode -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu3ntinS&layout=compact&theme=dark#gh-dark-mode-only" height="180px" alt="Top Langs" />
   <img src="https://streak-stats.demolab.com?user=Qu3ntinS&theme=dark#gh-dark-mode-only" height="180px" alt="GitHub streak stats" />
@@ -75,7 +60,7 @@
 
 ### 🔗 Socials & Support  
 
-<p align="left" style="display: flex;align-items:center;">
+<p align="left">
   <a href="https://instagram.com/quentinthees" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quentinthees" height="30" width="40" />
   </a>
