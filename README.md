@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&size=30&color=FFFFFF&background=000000&lines=Hi%2C+I'm+Quentin+👋🏼)](https://git.io/typing-svg)
 
 💻 **Fullstack Developer** from Würzburg, Germany  
-🎂 Born on **July 4th, 2005** (currently **{{AGE}} years old**)  
+🎂 Born on **July 4th, 2005** (currently **19 years old**)  
 🌍 Portfolio: [quentins.dev](https://quentins.dev)  
 
 ---
