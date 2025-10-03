@@ -28,12 +28,21 @@ jobs:
           echo "🎂 Birthdate is $BIRTHDATE"
           echo "🧮 Calculated Age: $AGE"
 
-          # Zahl im README ersetzen
-          sed -i -E "s/\(currently \*\*[0-9]+ years old\*\*\)/(currently **$AGE years old**)/" README.md
+          # Backup README for debug
+          cp README.md README.before.md
+
+          # Robust Replace (fängt auch kleine Unterschiede ab)
+          sed -i -E "s/\(currently \*\*[0-9]+ years old\*\*\)/(currently **$AGE years old**)/g" README.md
+
+          echo "------ Changed line check (before) ------"
+          grep "currently" README.before.md || echo "⚠️ Line not found in before file!"
+          echo "------ Changed line check (after) -------"
+          grep "currently" README.md || echo "⚠️ Line not found in after file!"
+          echo "----------------------------------------"
 
       - name: Commit & Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet || (git commit -m "Update age in README" && git push)
+          git diff --cached --quiet || (git commit -m "Update age in README" && git push)
