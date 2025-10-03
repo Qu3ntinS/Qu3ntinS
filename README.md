@@ -51,9 +51,8 @@
 ### 📊 GitHub Stats <img src="https://komarev.com/ghpvc/?username=qu3ntins&label=Profile%20views&color=0e75b6&style=flat" alt="qu3ntins" height="15"/>
 
 <p align="left">
-  <!-- Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu3ntinS&layout=compact&theme=dark#gh-dark-mode-only" height="180px" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=Qu3ntinS&theme=dark#gh-dark-mode-only" height="180px" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu3ntinS&layout=compact&theme=dark#gh-dark-mode-only" height="180" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=Qu3ntinS&theme=dark#gh-dark-mode-only" height="180" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -67,10 +66,10 @@
   <a href="https://discord.gg/NyR3aSq" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qu3ntins" height="30" width="40" />
   </a>
-  <a href="https://www.buymeacoffee.com/quentins" target="blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me a Coffee" />
-  </a>
 </p>
+<a href="https://www.buymeacoffee.com/quentins" target="blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me a Coffee" />
+</a>
 
 ---
 
