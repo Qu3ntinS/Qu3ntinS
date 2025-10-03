@@ -1,0 +1,31 @@
+name: Update Age in README
+
+on:
+  schedule:
+    - cron: "0 0 4 7 *" # läuft jedes Jahr am 04. Juli um 00:00 UTC
+  workflow_dispatch: # manueller Fallback-Trigger über GitHub UI
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Update Age in README
+        run: |
+          BIRTHDATE="2005-07-04"
+          TODAY=$(date +%Y-%m-%d)
+          AGE=$(( $(date -d $TODAY +%Y) - $(date -d $BIRTHDATE +%Y) ))
+          if [ "$(date -d $TODAY +%m%d)" -lt "$(date -d $BIRTHDATE +%m%d)" ]; then
+            AGE=$((AGE-1))
+          fi
+
+          sed -i "s/(currently \*\*.* years old\*\*)/(currently **$AGE years old**)/" README.md
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update age in README" || echo "No changes to commit"
+          git push
