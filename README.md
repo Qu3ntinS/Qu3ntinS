@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 About me
+### 👨🏼‍💻 About me
 - Building both frontend & backend with equal passion ⚡  
 - Tech nerd by day, car enthusiast by night 🚗💨  
 - Gamer at heart 🎮 (when I’m not coding or under a car)  
