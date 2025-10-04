@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&size=30&color=FFFFFF&background=000000&lines=Hi%2C+I'm+Quentin+👋🏼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&size=30&color=FFFFFF&background=0d1117&lines=Hi%2C+I'm+Quentin+👋🏼)](https://git.io/typing-svg)
 
 💻 **Fullstack Developer** from Würzburg, Germany  
 🎂 Born on **July 4th, 2005** (currently **20 years old**)  
